@@ -92,8 +92,20 @@ Hey, I’m Garvit — a self-taught full-stack dev who went from googling “wha
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 - Zoom-style video conferencing with WebRTC & Socket.io
 - Peer-to-peer connection setup with screen sharing
 - Authentication-free entry with room-based access
+</details>
+
+<!-- v4 -->
+<details>
+  <summary><h2> <img align="center" src="https://github.com/garvitthakral/garvitthakral/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=garvitthakral&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=garvitthakral&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=garvitthakral&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=garvitthakral&theme=tokyo-night)
+  </div>
 </details>

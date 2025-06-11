@@ -11,15 +11,15 @@
 </div>
 
 <!-- v2 -->
-## About Me <img align ='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV3NzZ4MjB5MDdrMzcxbjFoZjdpem0waXI4bXRmMHU1ZXB5MnlxYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i3L6JoWcVZj1HuURSE/giphy.gif" width="40px" />
+
+## About Me <img align ='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV3NzZ4MjB5MDdrMzcxbjFoZjdpem0waXI4bXRmMHU1ZXB5MnlxYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i3L6JoWcVZj1HuURSE/giphy.gif" width="55px" />
 
 Hey, I’m Garvit — a self-taught full-stack dev who went from googling “what is an API” to building Zoom and Zerodha clones in just a year. In 12 months, I’ve tackled 60+ LeetCode problems (and survived), built 3 full-stack MERN apps, and even launched a donation platform in my first solo hackathon. I’ve played with 15+ tech stacks like React, Node.js, MongoDB, and Three.js (yes, even 3D stuff). I code almost daily, debug like a detective, and break things just to fix them better. From tutorial hell to shipping real apps — I’m here to build, learn, and occasionally scream at my terminal.
 
 <details>
  <summary>
-    <h2> 
-      <img align="center" src="https://github.com/garvitthakral/garvitthakral/blob/main/icons/about.png" width="37" /> 
-   [ Resume ](https://docs.google.com/document/d/16Eoh9IifYkdvSC7p6LhIPMkpACIG9nvHFinXmRn6XhI/edit?usp=sharing)
+    <h2> <img width="37" height="37" src="https://img.icons8.com/3d-fluency/94/resume.png" alt="resume" align="center" >
+   [Resume](https://docs.google.com/document/d/16Eoh9IifYkdvSC7p6LhIPMkpACIG9nvHFinXmRn6XhI/edit?usp=sharing).
     </h2>
 </summary>
 

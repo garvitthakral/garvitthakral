@@ -101,11 +101,15 @@ Hey, I’m Garvit — a self-taught full-stack dev who went from googling “wha
 
 <!-- v4 -->
 <details>
-  <summary><h2> <img align="center" src="https://github.com/garvitthakral/garvitthakral/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=garvitthakral&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=garvitthakral&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=garvitthakral&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=garvitthakral&theme=tokyo-night)
-  </div>
+  <summary><strong> <img align="center" src="https://github.com/garvitthakral/garvitthakral/blob/main/icons/stats.gif" width="32"/> Stats</strong></summary>
+
+  <br/>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvitthakral&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=garvitthakral&theme=tokyonight&hide_border=false)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garvitthakral&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=garvitthakral&theme=tokyo-night)
 </details>

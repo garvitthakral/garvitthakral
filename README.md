@@ -18,7 +18,7 @@ Hey, I’m Garvit — a self-taught full-stack dev who went from googling “wha
 
 <details>
  <summary>
-    <h2> <img width="37" height="37" src="https://img.icons8.com/3d-fluency/94/resume.png" alt="resume" align="center" >
+    <h2> <img width="60px" src="https://img.icons8.com/3d-fluency/94/resume.png" alt="resume" align="center" >
    Resume
     </h2>
 </summary>
@@ -26,7 +26,7 @@ Hey, I’m Garvit — a self-taught full-stack dev who went from googling “wha
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
+  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60px"/> Coding Handles</h4></summary>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/thakral_garvit/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/thakral_garvit/practice)
@@ -35,7 +35,7 @@ Hey, I’m Garvit — a self-taught full-stack dev who went from googling “wha
 
 <details>
 
-  <summary><h4> <img width="29" height="29" src="https://img.icons8.com/arcade/64/sheets.png" alt="sheets" align="center" />Tech Stack</h4></summary>
+  <summary><h4> <img width="60px" src="https://img.icons8.com/arcade/64/sheets.png" alt="sheets" align="center" />Tech Stack</h4></summary>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -54,7 +54,7 @@ Hey, I’m Garvit — a self-taught full-stack dev who went from googling “wha
 
 <!-- v3 -->
 <details>
-  <summary><h4> <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBoN3g3aWdlZDc4NDRicng2ZjNtMXlzdjBxbjZxZHRzcGFobXpvYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/toXKzaJP3WIgM/giphy.gif" width="40px"/> Projects</h4></summary>
+  <summary><h4> <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBoN3g3aWdlZDc4NDRicng2ZjNtMXlzdjBxbjZxZHRzcGFobXpvYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/toXKzaJP3WIgM/giphy.gif" width="60px"/> Projects</h4></summary>
 
 #### <a href="https://github.com/garvitthakral/SoloStack_AMUHACKS4.0">StyleShare</a>
 
@@ -101,11 +101,11 @@ Hey, I’m Garvit — a self-taught full-stack dev who went from googling “wha
 
 <!-- v4 -->
 <details>
-  <summary><strong> <img align="center" src="https://github.com/garvitthakral/garvitthakral/blob/main/icons/stats.gif" width="32"/> Stats</strong></summary>
+  <summary><strong> <img align="center" src="https://img.icons8.com/fluency/48/rebalance-portfolio.png" width="60px"/> Stats</strong></summary>
 
   <br/>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvitthakral&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvitthakral&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false) -->
 
   ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=garvitthakral&theme=tokyonight&hide_border=false)
 
@@ -113,3 +113,10 @@ Hey, I’m Garvit — a self-taught full-stack dev who went from googling “wha
 
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=garvitthakral&theme=tokyo-night)
 </details>
+
+  ### Leetcode
+  <div align="center">
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/thakral_garvit?theme=auto&font=baloo&extension=null)
+
+  </div>

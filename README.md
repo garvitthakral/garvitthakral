@@ -16,6 +16,13 @@
 
 Hey, I’m Garvit — a self-taught full-stack dev who went from googling “what is an API” to building Zoom and Zerodha clones in just a year. In 12 months, I’ve tackled 60+ LeetCode problems (and survived), built 3 full-stack MERN apps, and even launched a donation platform in my first solo hackathon. I’ve played with 15+ tech stacks like React, Node.js, MongoDB, and Three.js (yes, even 3D stuff). I code almost daily, debug like a detective, and break things just to fix them better. From tutorial hell to shipping real apps — I’m here to build, learn, and occasionally scream at my terminal.
 
+### ✅ Merged PRs
+
+<span><img src="https://img.shields.io/badge/Total_Merged_PRs-2-1877F2?style=for-the-badge"></span>
+
+1. 🥳 Merged PR [#6](https://github.com/violettance/metagpt/pull/6) - [metagpt](https://github.com/violettance/metagpt)
+2. 🥳 Merged PR [#41](https://github.com/accuguide/accuguide/pull/41) - [accuguide](https://github.com/accuguide/accuguide)
+
 <details>
  <summary>
     <h2> <img width="60px" src="https://img.icons8.com/3d-fluency/94/resume.png" alt="resume" align="center" >
@@ -107,16 +114,18 @@ Hey, I’m Garvit — a self-taught full-stack dev who went from googling “wha
 
   <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvitthakral&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false) -->
 
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=garvitthakral&theme=tokyonight&hide_border=false)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=garvitthakral&theme=tokyonight&hide_border=false)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garvitthakral&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garvitthakral&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=garvitthakral&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=garvitthakral&theme=tokyo-night)
+
 </details>
 
-  ### Leetcode
+### Leetcode
+
   <div align="center">
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/thakral_garvit?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/thakral_garvit?theme=auto&font=baloo&extension=null)
 
   </div>

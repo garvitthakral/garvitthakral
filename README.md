@@ -19,9 +19,11 @@ Hey, I’m Garvit — a self-taught full-stack dev who went from googling “wha
 <details>
  <summary>
     <h2> <img width="37" height="37" src="https://img.icons8.com/3d-fluency/94/resume.png" alt="resume" align="center" >
-   [Resume](https://docs.google.com/document/d/16Eoh9IifYkdvSC7p6LhIPMkpACIG9nvHFinXmRn6XhI/edit?usp=sharing).
+   Resume
     </h2>
 </summary>
+<a href="https://docs.google.com/document/d/16Eoh9IifYkdvSC7p6LhIPMkpACIG9nvHFinXmRn6XhI/edit?usp=sharing">View Resume</a>
+</details>
 
 <details>
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
@@ -34,5 +36,4 @@ Hey, I’m Garvit — a self-taught full-stack dev who went from googling “wha
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-</details> 
 </details>
